@@ -10,7 +10,7 @@ You can mostly use the shell like you would use bash.
 
 -	Execute any executable with an absoulte or relative path
 -	Handle these custom builtins: `echo`, `cd`, `pwd`, `export`, `unset`, `env`, `exit`
--	Handle redirections, heredocsand pipes `>`, `>>`, `<`, `<<`, `|`
+-	Handle redirections, heredocs and pipes `>`, `>>`, `<`, `<<`, `|`
 -	Handle and manage environment variables `$`
 -	Have a working history feature
 -	Have custom signal handling
